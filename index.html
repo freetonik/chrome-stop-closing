@@ -1,0 +1,23 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Stop Chrome From Closing</title>
+  <meta name="description" content="Stop Chrome From Closing">
+  <meta name="author" content="SitePoint">
+
+</head>
+
+<body>
+  <script language="JavaScript">
+    window.onbeforeunload = confirmExit;
+    function confirmExit() {
+        return "Are you sure you wanna leave and cry?";
+    }
+  </script>
+  
+  <img src="http://thecatapi.com/api/images/get?format=src&type=jpeg&size=med">
+</body>
+</html>
