@@ -8,4 +8,6 @@ This [page](https://rakh.im/chrome-stop-closing/) is exacly that. Open [it](http
 
 [GO TO THE MAGICAL SAVIOR PAGE NOW →](https://rakh.im/chrome-stop-closing/)
 
+Oh, and it shows a random cat picture, which makes it even better.
+
 P.S. You can restore tabs one by one with Cmd+T, but that's still pain in the ass.
