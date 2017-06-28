@@ -10,4 +10,4 @@ This [page](https://rakh.im/chrome-stop-closing/) is exacly that. Open [it](http
 
 Oh, and it shows a random cat picture, which makes it even better.
 
-P.S. You can restore tabs one by one with Cmd+T, but that's still pain in the ass.
+P.S. You can restore tabs one by one with Cmd+Shift+T, but that's still pain in the ass.
